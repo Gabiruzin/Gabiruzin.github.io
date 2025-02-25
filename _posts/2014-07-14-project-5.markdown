@@ -1,14 +1,14 @@
 ---
 layout: default
-modal-id: 4
+modal-id: 5
 date: 2025-02-25
-img: Languages1.jpg
+img: Interests.png
 alt: image-alt
 project-date: February 2025
 client: SoBatistaCyber
-title: Languages
-short-description: What languages I speak and intend to learn
-category: Personal Development
+title: Interests
+short-description: What I like to do 
+category: Personal Interests
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
 

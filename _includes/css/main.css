@@ -289,7 +289,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: #121826;
 }
 
 @media(max-width:767px) {
@@ -486,7 +486,7 @@ footer .footer-below {
     display: inline-block;
     width: 50px;
     height: 50px;
-    border: 2px solid #fff;
+    border: 2px solid #000000;
     border-radius: 100%;
     text-align: center;
     font-size: 20px;
@@ -643,4 +643,69 @@ Custonm code:
 #portfolio .portfolio-item .portfolio-link .caption:not(:hover) {
     transition: none; /* Removes delay on hover-out */
     opacity: 0;
+}
+
+#contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centers everything horizontally */
+    justify-content: center; /* Centers everything vertically */
+    text-align: center;
+    height: auto;
+    padding: 50px 0;
+}
+
+#contact .footer-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Ensures the text and buttons are centered */
+    justify-content: center;
+    width: 100%;
+}
+
+#contact h3 {
+    margin-bottom: 20px;
+    color: #121826; /* Adjust text color */
+    text-align: center;
+}
+
+/* Centering the social media icons */
+#contact ul.list-inline {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    flex-wrap: wrap; /* Ensures responsiveness */
+    padding: 0;
+    margin: 0 auto;
+    list-style: none;
+}
+
+/* Ensure even spacing between social buttons */
+#contact ul.list-inline li {
+    display: inline-block;
+    margin: 10px; /* Adds equal space around icons */
+}
+
+/* Make the buttons and circles black */
+.btn-social {
+    width: 50px;
+    height: 50px;
+    border: 2px solid #000; /* Black border */
+    border-radius: 50%;
+    text-align: center;
+    font-size: 20px;
+    line-height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000; /* Black background */
+    color: #fff; /* White icon color */
+    transition: all 0.3s ease-in-out;
+}
+
+/* Hover effect */
+.btn-social:hover {
+    background: #fff; /* Turns white on hover */
+    color: #000; /* Turns icon black on hover */
+    border: 2px solid #000;
 }
