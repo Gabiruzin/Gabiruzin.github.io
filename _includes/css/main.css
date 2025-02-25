@@ -30,7 +30,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #ff0000
 }
 
 h1,
@@ -72,15 +72,15 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: #121826;
 }
 
 hr.star-primary {
-    border-color: #{{ site.color.secondary }};
+    border-color: #121826;
 }
 
 hr.star-primary:after {
-    color: #{{ site.color.secondary }};
+    color: #121826;
     background-color: #fff;
 }
 
@@ -319,7 +319,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba({{ site.color.primary-rgb }},.9);
+    background: rgba(#121826, 0.9);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -400,7 +400,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #{{ site.color.primary }};
+    color: #121826;
     background: #fff;
 }
 
@@ -453,7 +453,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #{{ site.color.primary }};
+    color: #121826;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -470,7 +470,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #ffff00;
 }
 
 footer .footer-col {
@@ -479,7 +479,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #121826;
 }
 
 .btn-social {
@@ -563,7 +563,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #ffff00;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -573,14 +573,15 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #ffff00;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
 
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary-dark }} !important;
+    background-color: #121826 !important;
+    color: #8dbee1  !important;
 }
 
 /* Fix modal mouse wheel issues */
