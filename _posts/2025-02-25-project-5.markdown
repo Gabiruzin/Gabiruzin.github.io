@@ -1,0 +1,31 @@
+---
+layout: default
+modal-id: 5
+date: 2025-02-25
+img: Interests.png
+alt: image-alt
+title: Interests
+short-description: What I like to do
+---
+
+# 🌍 Why Interests Matter
+I believe that **our interests outside of work shape our mindset, problem-solving abilities, and creativity**.  
+That’s why I always make time to **invest in the things that fuel my passion**.
+
+# 🎾 My Biggest Interests
+- **Tennis** – Teaches **discipline, resilience, and strategic thinking**, which I apply in my professional life.  
+- **Reading** – Fuels my **curiosity and continuous learning**, keeping me up to date with industry trends.  
+- **Traveling** – Broadens my perspective, helping me **understand different cultures and ways of thinking**.  
+
+# 🚀 How My Interests Impact Me
+- ✅ **Tennis** has enhanced my **focus, adaptability, and strategic mindset**.  
+- ✅ **Reading** keeps me engaged with **new ideas, technology, and innovation**.  
+- ✅ **Traveling** has given me a **global outlook**, improving my communication and problem-solving skills.  
+
+# 🔗 Related Links
+- [My Favorite Books](#)  
+- [Best Tennis Strategies](#)  
+
+# 💡 Why This Matters
+Our interests **shape who we are**, influence our decisions, and help us **stay motivated and creative**.  
+By continuously engaging in **sports, learning, and travel**, I ensure **personal and professional growth**.

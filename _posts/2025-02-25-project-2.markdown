@@ -4,10 +4,29 @@ modal-id: 2
 date: 2025-02-25
 img: certs.png
 alt: image-alt
-project-date: February 2025
-client: Personal Project
 title: Certifications
 short-description: All my certifications done, and future plans.
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
+
+# 🎓 Continuous Learning & Certifications
+I strongly believe in **continuous learning**, and my certifications reflect that.  
+I have obtained key certifications that enhance my **expertise in data analysis, technology, and business intelligence**, and I am always looking for the next challenge.
+
+# 📜 Certifications Earned
+- ✅ **[Certification Name 1]** – Demonstrates proficiency in [Skill/Tool].
+- ✅ **[Certification Name 2]** – Validates expertise in [Domain/Technology].
+- ✅ **[Certification Name 3]** – Focused on [Specific Area].
+
+# 🚀 Future Certification Goals
+I have a roadmap for **future certifications** that will further expand my **technical knowledge** and **problem-solving abilities**:
+- 🎯 **[Planned Certification 1]** – To deepen knowledge in [Field/Technology].
+- 🎯 **[Planned Certification 2]** – To gain hands-on experience with [Skillset].
+- 🎯 **[Planned Certification 3]** – To stay ahead in the industry.
+
+# 🔗 Relevant Links
+- [My Certification Portfolio](#)
+- [Recommended Learning Resources](#)
+
+# 💡 Why This Matters
+For me, certifications are not just credentials—they are a way to **challenge myself, stay ahead in my field, and validate my skills in a structured way**.  
+Every certification represents a **commitment to growth, mastery, and professional development**.

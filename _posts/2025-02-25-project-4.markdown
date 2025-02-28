@@ -1,13 +1,27 @@
 ---
 layout: default
 modal-id: 4
-date: 2025-02-25
-img: Languages1.jpg
+img: Languages.png
 alt: image-alt
-project-date: February 2025
-client: SoBatistaCyber
 title: Languages
 short-description: What languages I speak and intend to learn
-category: Personal Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
+
+# 🌍 Languages I Speak & Learn
+Language is a **powerful tool** that enhances communication, problem-solving, and adaptability. My journey with languages is both personal and professional, allowing me to **connect with people from diverse backgrounds**.
+
+# 🗣️ Languages I Speak
+- **Portuguese (Native)** – Fluent in all aspects, including technical and casual communication.
+- **English (Advanced / Business-Level)** – Strong proficiency in **speaking, writing, reading, and listening**.
+
+# 📖 Languages I Am Learning
+- **German (Beginner - A1 Level)** – Currently working towards fluency, focusing on **basic conversation and comprehension**.
+
+# 🎯 Why Language Learning Matters
+- ✅ **Enhances problem-solving & adaptability** – Learning a new language strengthens cognitive flexibility.
+- ✅ **Boosts global communication** – Expands professional and cultural opportunities.
+- ✅ **Supports professional growth** – Improves networking and international collaboration.
+
+# 💡 My Language Learning Goals
+My goal is to **become proficient in German** and explore additional languages in the future.  
+Expanding my linguistic abilities will help me **connect with more people and make my work globally accessible**.

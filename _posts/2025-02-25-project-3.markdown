@@ -2,12 +2,33 @@
 layout: default
 modal-id: 3
 date: 2025-02-25
-img: powerbi.jpg
+img: PowerBI.png
 alt: image-alt
-project-date: February 2025
 client: SoBatistaCyber
 title: Consultant for SoBatistaCyber - Power BI
 short-description: I work as a Power BI freelance consultant for SoBatistaCyber's YouTube Channel
 category: Consultancy
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
+
+# 📊 Overview
+As a **freelance Power BI consultant**, I analyze data and provide insights to **optimize content strategy and audience engagement**.
+
+My role involves **transforming raw data into actionable insights** and **supporting data-driven decision-making**.
+
+# 🔹 Key Responsibilities
+- **Data Analysis & Visualization** – Extracting meaningful insights from complex datasets.
+- **Business Intelligence** – Using **Power BI** to track trends and performance.
+- **Strategic Thinking** – Interpreting **viewer trends, engagement metrics, and financial performance**.
+
+# 🌟 Key Achievements
+- ✅ Increased video engagement by **25%** using data-driven recommendations.
+- ✅ Optimized **SEO & content strategy** through trend analysis.
+- ✅ Created **automated dashboards** to streamline performance tracking.
+
+# 🔗 Relevant Links
+- [Portfolio](https://gabiruzin.github.io/)
+- [Power BI Resource](https://powerbi.microsoft.com/)
+
+# 💡 Why This Matters
+I love **turning numbers into real-world impact**.  
+My work allows me to **bridge the gap between data science and business strategy**, adding real value to content creators.

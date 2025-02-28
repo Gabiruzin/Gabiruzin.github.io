@@ -2,12 +2,31 @@
 layout: default
 modal-id: 1
 date: 2025-02-25
-img: WebPortfolio.jpg
+img: Coding.png
 alt: image-alt
-project-date: February 2025
-client: Personal Project
-title: Personal Porfolio Website
+title: Personal Portfolio Website
 short-description: This is my personal portfolio - check it out!
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
+
+# 🌍 About My Portfolio
+I designed and developed this portfolio website to **showcase my projects, skills, and professional journey**.  
+
+This site is more than just an online resume—it's a **living document** of my progress, interests, and expertise. It serves as a central hub for everything I do, allowing me to **share my journey** with anyone interested in my work.
+
+# 🎨 Key Features
+- **Modern & Responsive Design** – Ensures a clean, intuitive, and user-friendly interface.
+- **Project Showcasing** – Highlights my work with **detailed case studies and visuals**.
+- **Personal Branding** – Represents my **digital identity** and professional journey.
+
+# 🚀 What I Learned
+- ✅ **Front-End Development** – Mastered HTML, CSS, and JavaScript for sleek UI/UX.
+- ✅ **Project Presentation** – Structured content to effectively communicate my work.
+- ✅ **Branding & Storytelling** – Created a website that aligns with my personal brand.
+
+# 🔗 Relevant Links
+- [Visit My Portfolio](#)  
+- [GitHub Repository](#)  
+
+# 💡 Why This Matters
+Having a **personal website** is essential in today's digital world.  
+It’s a **showcase of my skills, growth, and creativity**, allowing me to connect with like-minded professionals and potential clients.
