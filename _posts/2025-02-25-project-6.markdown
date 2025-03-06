@@ -4,31 +4,33 @@ modal-id: 6
 date: 2025-02-25
 img: Editing.png
 alt: image-alt
-client: SoBatistaCyber
-title: Video Editing
-short-description: Short-form video editing for SoBatistaCyber.
+#client: SoBatistaCyber
+title: Video Editing - To be started
+short-description: Short-form video editing #for SoBatistaCyber.
 category: Personal Work
----
 
 # 🎬 Overview
-Video editing is both an **analytical and artistic process**, and I love bringing ideas to life through **visual storytelling**.  
+#Video editing is both an **analytical and artistic process**, and I love bringing ideas to life through **visual storytelling**.  
 
-I specialize in **short-form content**, where every second counts. My editing work requires a mix of **technical skill and creativity** to keep videos engaging and impactful.
+#I specialize in **short-form content**, where every second counts. My editing work requires a mix of **technical skill and creativity** to keep videos engaging and impactful.
 
 # ✂️ Key Skills
-- **Precision Editing** – Ensuring smooth transitions and high-quality cuts.  
-- **Storytelling through Visuals** – Keeping content fast-paced, engaging, and effective.  
-- **Creative Decision-Making** – Balancing aesthetics, information, and audience retention.  
+#- **Precision Editing** – Ensuring smooth transitions and high-quality cuts.  
+#- **Storytelling through Visuals** – Keeping content fast-paced, engaging, and effective.  
+#- **Creative Decision-Making** – Balancing aesthetics, information, and audience retention.  
 
 # 🌟 Key Achievements
-- ✅ **Enhanced video engagement** through optimized pacing and visual storytelling.  
-- ✅ **Developed a unique editing style** tailored for cybersecurity and tech content.  
-- ✅ **Created high-performing short-form content** to grow online presence.  
+#- ✅ **Enhanced video engagement** through optimized pacing and visual storytelling.  
+#- ✅ **Developed a unique editing style** tailored for cybersecurity and tech content.  
+#- ✅ **Created high-performing short-form content** to grow online presence.  
 
 # 🔗 Relevant Links
-- [YouTube Channel](#)  
-- [Portfolio](#)  
+#- [YouTube Channel](#)  
+#- [Portfolio](#)  
 
 # 💡 Why This Matters
-Short-form content is **one of the most effective ways** to capture attention and deliver value.  
-By refining my **editing techniques**, I ensure that every video is **engaging, polished, and impactful**.
+#Short-form content is **one of the most effective ways** to capture attention and deliver value.  
+#By refining my **editing techniques**, I ensure that every video is **engaging, polished, and impactful**.
+
+---
+
